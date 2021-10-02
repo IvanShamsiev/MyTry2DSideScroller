@@ -1,3 +1,2 @@
 # MyTry2DSideScroller
-
-Developed with Unreal Engine 4
+MyTry2DSideScroller by FAQ!
